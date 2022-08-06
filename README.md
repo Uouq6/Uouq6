@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Uouq6
-- 👀 I’m interested in Scripting and Blockchain
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Unity projects with my buddies
-- 📫 How to reach me: Discord, Uouq#8982
-Nothing much else to say, to whoever is reading this ur awsome
+Hey, its Uouq
+I’m currently learning C# and have about a year worth of experience in python.
+I’m looking to collaborate on Unity projects with my buddies.
+Discord: Uouq#8982
+If you've read this far, have a nice day bro.
